@@ -1,5 +1,7 @@
 # trenitalia
-Sviluppo per l'interfaccio per i clienti su Trenitalia. Fa parte de Moving Forward Hackathon, Roma, 16-17 Settembre 2017.
+
+Obiettivo: Migliorare "Customer Experience." 
+Sviluppo per l'interfaccia per i clienti su Trenitalia. Fa parte de Moving Forward Hackathon, Roma, 16-17 Settembre 2017.
 
 Autore: Vincerra Michael
 Sito Sviluppatore: http://michaelvincerra.github.io/ 
