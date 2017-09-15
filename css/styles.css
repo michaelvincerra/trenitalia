@@ -4,35 +4,63 @@
   grid-gap: 10px;
   grid-auto-rows: minmax(100px, auto);
 }
+
+.rosso-ti {
+background-color: #c41329;
+
+}
+
+/* c41329 #
+-- ROSSO --
+c13 firebrick
+hsl(352,82,42)rgb(196,19,41)
+-- VERDE --
+#00675A
+#066teal
+hsl(172,100,20)rgb(0,103,90)
+*/
+
+.verde-ti {
+    background-color: #00675A;
+    }
+
+
 .one {
-  grid-column: 1 / 3;
-  grid-row: 1;
-  background-color: grey;
-  opacity: .25;
+    grid-column: 1 / 3;
+    grid-row: 1;
+    background-color: #C41329;
+    opacity: .85;
+    border-radius: 10px;
 
 }
 .two {
-  grid-column: 2 / 4;
-  grid-row: 1 / 7;
-  background-color: grey;
-/*   width: 1000px; */
-  opacity: .25;
+    grid-column: 2 / 4;
+    grid-row: 1 / 7;
+    background-color: #C41329;
+    /*   width: 1000px; */
+    opacity: .85;
+    border-radius: 10px;
+
 }
 .three {
-  grid-row: 2 / 7;
-  grid-column: 1;
-  background-color: grey;
-  opacity: .25;
-/*   width: 250px; */
+    grid-row: 2 / 7;
+    grid-column: 1;
+    background-color: #C41329;
+    opacity: .85;
+    border-radius: 10px;
+
+    /*   width: 250px; */
 }
 .four {
-  grid-column: 3 / 3;
-  grid-row: 1 / 1;
-  background-color: grey;
-  opacity: .25;
-  text-align: right;
-  padding-right: 20px;
-  padding-top: 20px;
+    grid-column: 3 / 3;
+    grid-row: 1 / 1;
+    background-color: #C41329;
+    opacity: .85;
+    text-align: right;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+
 }
 
 /* .five {
@@ -42,4 +70,4 @@
 .six {
   grid-column: 3;
   grid-row: 4;
-} */ */
+} */
